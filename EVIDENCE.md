@@ -1,4 +1,4 @@
-![Alt text](https://github.com/tjgin/notes-app/blob/main/image1.png?raw=true) # A screenshot of a successful GitHub Actions run
+<img width="1409" height="600" alt="image1" src="https://github.com/user-attachments/assets/7b337bec-7cbb-4b01-a67a-e92ee94c2439" /> # A screenshot of a successful GitHub Actions run
 
 ![alt text](image2.png) # A screenshot of your Docker Hub tags page showing both architectures
 
